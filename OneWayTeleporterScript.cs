@@ -13,5 +13,4 @@ public class OneWayTeleporterScript : MonoBehaviour
         other.gameObject.transform.position = newPos;
     }
 
-
 }
